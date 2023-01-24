@@ -93,6 +93,7 @@ FOR NOR
 Timing Diagram
 
 FOR NAND
+
 ![nandtd](https://user-images.githubusercontent.com/119389971/214304382-93262be6-0185-4da1-9307-d09496a9537d.png)
 
 
